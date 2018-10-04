@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFO-TutorialPart1", "UFO-TutorialPart1.csproj", "{ACBB3ABC-E37B-9B75-0115-77371E061836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACBB3ABC-E37B-9B75-0115-77371E061836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBB3ABC-E37B-9B75-0115-77371E061836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBB3ABC-E37B-9B75-0115-77371E061836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBB3ABC-E37B-9B75-0115-77371E061836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
